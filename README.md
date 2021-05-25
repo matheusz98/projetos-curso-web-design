@@ -1,9 +1,5 @@
 <h1 align="center">:books: Projetos do Curso de Web Design :books:</h1>
 
-<p align="center">
-<img src="imgs/capa.jpg" alt="Capa do curso" width="300">
-</p>
-
 <p align="center">Olá! Seja bem-vindo ao meu repositório de projetos realizados durante meu aprendizado no Curso de Web Design da Udemy.
 Aqui você irá encontrar os projetos que desenvolvi durante as aulas do curso.</p>
 
